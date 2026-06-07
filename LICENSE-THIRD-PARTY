@@ -1,0 +1,13 @@
+Third‑party licenses
+
+This project uses the following open‑source components:
+
+1. RSyntaxTextArea
+   License: BSD 3‑Clause
+   Copyright (c) 2021, Robert Futrell
+   Full license text: see file "LICENSE-LIB"
+
+2. IBM Plex Mono fonts
+   License: SIL Open Font License 1.1
+   Copyright (c) 2017 IBM Corp. with Reserved Font Name "Plex"
+   Full license text: see file "LICENSE-FONTS"
