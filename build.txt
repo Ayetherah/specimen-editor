@@ -1,0 +1,2 @@
+javac -cp ".:rsyntaxtextarea-3.6.2.jar" EditorTestV0.java
+java -cp ".:rsyntaxtextarea-3.6.2.jar" EditorTestV0
